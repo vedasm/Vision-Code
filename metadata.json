@@ -1,0 +1,5 @@
+{
+  "name": "Vision Code",
+  "description": "An AI-powered DevTool that visualizes code execution logic, data structures, and algorithmic complexity in real-time using AST analysis.",
+  "requestFramePermissions": []
+}
